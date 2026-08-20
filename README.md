@@ -16,6 +16,6 @@ C+H if u wantt
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bvzyghh3kjzcud5v4b7kv4ty5y&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bvzyghh3kjzcud5v4b7kv4ty5y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
