@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img width="200" src="https://www.bloggif.com/tmp/bd04e8d0c98d158f78f9f7cd7746fc65/text.gif?1787245906"
+<img width="200" src="https://www.bloggif.com/tmp/c33300a0004807c64bc7eb27fa4eacd2/text.gif?1787309666"
 </p>
 
 <p align="center">
