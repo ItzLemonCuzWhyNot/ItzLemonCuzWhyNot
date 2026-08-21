@@ -22,8 +22,3 @@
 <img width="500" src="https://64.media.tumblr.com/6ef22398a212168cf5eea72aa2dfb5c4/bf460091df915203-86/s400x600/290f3ca9d1c6b255d156625b59aa2b7e62d3433e.webp"
 </p>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bvzyghh3kjzcud5v4b7kv4ty5y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</p>
