@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-    <img width="300" src="https://media.discordapp.net/attachments/1390282847771955303/1537536623158362273/image.png?ex=6a87f7d1&is=6a86a651&hm=a4f231484d263b1bd0ae2b4dc6a17932c9291ea0f4d4ade65b119e2f49f48e89&=&format=webp&quality=lossless">
+    <img width="300" src="https://media1.tenor.com/m/QCTMHEMUknIAAAAC/sp7-self-preservation-7.gif">
 </p>
 
 <p align="center">
-<img width="200" src="https://www.bloggif.com/tmp/c33300a0004807c64bc7eb27fa4eacd2/text.gif?1787309666"
+<img width="180" src="https://www.bloggif.com/tmp/2a158fbb41ceb951d8bcc8dad07e7c06/text.gif?1790508276"
 </p>
 
 <p align="center">
-<img width="150" src="https://www.bloggif.com/tmp/bd04e8d0c98d158f78f9f7cd7746fc65/text.gif?1787246347"
+<img width="150" src="https://www.bloggif.com/tmp/2a158fbb41ceb951d8bcc8dad07e7c06/text.gif?1790508411"
 </p>
 
 <p align="center">
