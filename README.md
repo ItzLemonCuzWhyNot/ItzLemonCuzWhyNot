@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<img width="180" src="https://www.bloggif.com/tmp/2a158fbb41ceb951d8bcc8dad07e7c06/text.gif?1790508276"
+HAIIIIIAWA
 </p>
 
 <p align="center">
-<img width="150" src="https://www.bloggif.com/tmp/2a158fbb41ceb951d8bcc8dad07e7c06/text.gif?1790508411"
+INTERACTTT FREELYY
 </p>
 
 <p align="center">
